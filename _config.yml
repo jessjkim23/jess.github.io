@@ -13,7 +13,7 @@ title                    : "Jessica Jumee Kim's Personal Website"
 title_separator          : "-"
 name                     : &name "Jessica Jumee Kim"
 description              : &description "I am an Assistant Professor of Marketing at Bocconi University."
-url                      : https://JessicaJumeeKim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jessicajumeekim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessjkim23/jess.github.io"
 
